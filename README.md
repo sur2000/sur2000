@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web and Android App Development 
 
-- 🌱 I’m currently learning Bootstrap and React Js 
+- 🌱 I’m currently learning Backend
 
 - 📫 How to reach me - surshri2001@gmail.com
 
