@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sur2000 
-
-- 👀 I’m interested in Web and Android App Development 
-
-- 🌱 I’m currently learning Backend
+- 👋 Hi, I’m @sur2000, and I identify myself as a Tech-Explorer
 
 - 📫 How to reach me - surshri2001@gmail.com
 
